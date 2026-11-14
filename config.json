@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "automated-testing-pytest",
+      "title": "Automated Testing with pytest",
+      "description": "Write pytest tests for Python functions and FastAPI endpoints, including edge cases and errors.",
+      "path": "assignments/automated-testing-pytest",
+      "dueDate": "2026-11-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
